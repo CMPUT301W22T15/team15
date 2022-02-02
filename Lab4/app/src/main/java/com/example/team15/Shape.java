@@ -4,9 +4,11 @@ public class Shape {
     public int x;
     public int y;
 
+
     public String colorNew = "$green";
 
     public String color = "blue____";
+
 
 
     public Shape(int x, int y) {
