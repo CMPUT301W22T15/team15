@@ -9,6 +9,7 @@ public class Shape {
     public String color = "blue____";
 
 
+
     public Shape(int x, int y) {
         this.x = x;
         this.y = y;
